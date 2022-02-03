@@ -16,7 +16,7 @@ function tfAuslesen () {
 
     punktePruefen(n1);
     punktePruefen(n2);
-    punktePruefen(n3);
+    punktePruefen(n3); //mashallah
     punktePruefen(n4);
     punktePruefen(n5);
 
